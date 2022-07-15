@@ -12,6 +12,9 @@ function add(n1, n2, showResult, resultParse) {
         return result;
     }
 }
+
+
+
 var number1 = 4;
 var number2 = 5;
 var printResult = true;
